@@ -8,7 +8,7 @@
 
 > Spiders 文件夹下面的文件说明:
 > 
-> config.py: 存放了 cookie
+> config.py: 存放了 cookie, 需要替换为自己的 cookie
 > 
 > keywords.txt : 存放的是搜索的关键词
 > 
@@ -17,3 +17,5 @@
 > search: 查看当前数据库中的数据量  未完
 > 
 > tools: 一些采集过程中用的函数
+>
+> 以Test 命名或者以Test 结尾的文件是我写的测试文件, 可以忽略.
